@@ -5,10 +5,15 @@ Every Algorithm file in this repository are coded from scratch with python.
 
 Algorithms:
 
-*Perceptron*
+*Model																Accuracy*
+----------------------------------------------------------------------------------
 
+*Linear Regression*													0.9765
 
-*Linear Regression*
+----------------------------------------------------------------------------------
+*Logistic Regression*												1.0
 
+----------------------------------------------------------------------------------
+*Perceptron*														1.0
 
-*Logistic Regression*
+----------------------------------------------------------------------------------
